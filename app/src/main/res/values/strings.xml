@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">curpApp</string>
+
+    <string-array name="sex_arrays">
+
+        <item>Mujer</item>
+        <item>Hombre</item>
+
+    </string-array>
+
+    <string-array name="entidad_arrays">
+
+        <item>Nuevo Leon</item>
+        <item>Coahuila</item>
+        <item>Sonora</item>
+
+    </string-array>
+
+</resources>
